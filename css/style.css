@@ -36,8 +36,9 @@
 	display: flex;
 	flex-direction: column;
 	height: 768px;	
-	background-image: url(img/first_screen/background.png);
+	background-image: url(../img/first_screen/background.png);
 	font-size: 18px;
+
 }
 
 .first__screen__container{
@@ -160,20 +161,20 @@ li.button__nav a:hover{
 	margin: 20px 0;
 }
 .box-2{
-	background: url(img/third_screen/2.png) 50% 50%;
+	background: url(../img/third_screen/2.png) 50% 50%;
 	background-size: cover;
 }
 .box-4{
-	background: url(img/third_screen/1.png) 50% 50%;
+	background: url(../img/third_screen/1.png) 50% 50%;
 	background-size: cover;
 }
 
 .box-6{
-	background: url(img/third_screen/3_1.png);
+	background: url(../img/third_screen/3_1.png);
 	background-position: bottom;
 }
 .box-9{
-	background: url(img/third_screen/3_2.png);
+	background: url(../img/third_screen/3_2.png);
 	background-position: top;
 	color: white;
 }
@@ -182,7 +183,7 @@ li.button__nav a:hover{
 }
 
 .box-8{
-	background: url(img/third_screen/4.png) no-repeat 50% 50%;
+	background: url(../img/third_screen/4.png) no-repeat 50% 50%;
 	background-color: #f4f0eb;
 }
 .box_wrapper{
@@ -218,7 +219,7 @@ li.button__nav a:hover{
 	float: left;
 	min-width: 60px;
 	height: 60px;
-	background: url(img/fourth_screen/icon.png) no-repeat;
+	background: url(../img/fourth_screen/icon.png) no-repeat;
 	margin: 20px;
 }
 .opt__text{
@@ -231,7 +232,7 @@ li.button__nav a:hover{
 .box_f1{
 	grid-row: 1 / span 3;
 	min-height: 640px;
-	background: url(img/fourth_screen/1.png) no-repeat 50% 50%;
+	background: url(../img/fourth_screen/1.png) no-repeat 50% 50%;
 	background-size: 100%;
 }
 .box_f2{
@@ -258,7 +259,7 @@ li.button__nav a:hover{
 
 /* Fifth */
 .fifth{
-	background: url(img/fifth_screen/1.png) 50% 50%;
+	background: url(../img/fifth_screen/1.png) 50% 50%;
 	height: 700px;
 	color:white;
 	display: flex;
@@ -344,7 +345,7 @@ border-left: 2px solid #252525;
 	display: flex;
 	grid-row: 1/ span 2;
 	grid-column: 1/ span 2;
-	background: url(img/sixth_screen/1.png) 50% 50%;
+	background: url(../img/sixth_screen/1.png) 50% 50%;
 	align-items: center;
 	justify-content: center;
 	text-align: center;
@@ -411,22 +412,22 @@ border-left: 2px solid #252525;
 }
 
 .seven_option_1{
-	background: url(img/seventh_screen/1.png) no-repeat;
+	background: url(../img/seventh_screen/1.png) no-repeat;
 }
 .seven_option_2{
-	background: url(img/seventh_screen/2.png) no-repeat;
+	background: url(../img/seventh_screen/2.png) no-repeat;
 }
 .seven_option_3{
-	background: url(img/seventh_screen/3.png) no-repeat;
+	background: url(../img/seventh_screen/3.png) no-repeat;
 }
 .seven_option_4{
-	background: url(img/seventh_screen/4.png) no-repeat;
+	background: url(../img/seventh_screen/4.png) no-repeat;
 }
 .seven_option_5{
-	background: url(img/seventh_screen/5.png) no-repeat;
+	background: url(../img/seventh_screen/5.png) no-repeat;
 }
 .seven_option_6{
-	background: url(img/seventh_screen/6.png) no-repeat;
+	background: url(../img/seventh_screen/6.png) no-repeat;
 }
 
 
@@ -438,7 +439,7 @@ border-left: 2px solid #252525;
 	justify-content: space-between;
 	align-items: center;
 	padding: 150px 300px;
-	background: url(img/eight_screen/1.png) center / cover no-repeat;
+	background: url(../img/eight_screen/1.png) center / cover no-repeat;
 	height:700px;
 	text-align: center;
 	color:white;
@@ -549,7 +550,7 @@ border-left: 2px solid #252525;
 	font-weight: 700;
 }
 .tenth{
-	background: url(img/tenth_screen/1.png) center / cover no-repeat;
+	background: url(../img/tenth_screen/1.png) center / cover no-repeat;
 	height:350px;
 	color:white;
 	text-align: center;
