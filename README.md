@@ -1,2 +1,2 @@
-My first markup page.
+<b>My first markup page.</b>
 There i learning how use css selectors and html tags. Page have static size and many semantic problems. This project stay here to show you my progress in frontend.
